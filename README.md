@@ -25,3 +25,5 @@ New translations and corrections of existing translations happen on my instance 
 ## :fr: French  
 
 ## :cn: Chinese (Traditional)  
+
+## :sk: Slovak  
