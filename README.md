@@ -6,24 +6,51 @@ New translations and corrections of existing translations happen on my instance 
 
 # Languages
 
-## :de: German
+## :de: German  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/de/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/de/)
 
 ## :czech_republic: Czech  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/cs/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/cs/)
 
 ## :uk:/:us: English  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/en/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/en/)
 
 ## :poland: Polish  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/pl/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/pl/)
 
 ## :it: Italian  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/it/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/it/)
 
 ## :es: Spanish  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/es/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/es/)
 
 ## :ru: Russian  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/ru/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/ru/)
 
-## :hungary: Hungarian   
+## :hungary: Hungarian  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/hu/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/hu/)
 
 ## :fr: French  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/fr/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/fr/)
 
 ## :cn: Chinese (Traditional)  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/zh_Hant/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/zh_Hant/)
 
-## :sk: Slovak  
+## :slovakia: Slovak  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-3/sk/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-3/sk/)
+Translation authors:
+- Tomáš "Naetoo" Galierik
+- Slappy
+- Jozef "jojo390" Chano
+- Cmelda
+- KyslaKapusta
+- MIKI
+- Abe
+- LojzoIV
+- Martin Both,
+- Uran Miner
+- Lumír
+- Landlord
+- Xtreme Braňo
+- MINO7172
+- K@R
