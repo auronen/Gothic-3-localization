@@ -166,7 +166,7 @@
     "HUD_Menu_ResetWarning": "Зміна цього повзунка призводить до перезапуску.",
     "HUD_Menu_Resume_Game": "Повернутися до гри",
     "HUD_Menu_Save_Game": "Зберегти гру",
-    "HUD_Mid": "Друїд",
+    "HUD_Mid": "Друїди",
     "HUD_Million": "млн",
     "HUD_MissingAttrib": "Бракує $(value) пунктів $(name)",
     "HUD_MissingItem": "$(name) потребує ще $(value) x $(item).",
